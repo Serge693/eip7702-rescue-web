@@ -150,4 +150,4 @@ src/
 
 ## License
 
-MIT
+MIT @Serge693
